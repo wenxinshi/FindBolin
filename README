@@ -1,0 +1,2 @@
+Group:WENXIN SHI, LEI LI, JINXUAN REN, YICHUAN ZHAO, WEIYAN YIN
+Liu Bolin is aChinese artist, who is famous for camouflage image by hiding himself in the background. In his artworks, the main interference of detection are largely involved with high-contrast background and relevant ripple edge between him and the background, which cause a falling result if we simple usethe face detection or body detection. This work is to expose him to public in a efficient and accurate way.
